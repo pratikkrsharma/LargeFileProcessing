@@ -1,0 +1,26 @@
+{
+    "name": 
+        {
+            "type": "string",
+            "minlength": 1,
+            "required": true
+        },
+    "sku":
+        {
+            "type": "string",
+            "minlength": 1,
+            "required": true
+        },
+    "sku_id": 
+        {
+            "type": "string",
+            "minlength": 1,
+            "required": true
+        },
+    "description":
+        {
+            "type": "string",
+            "minlength": 1,
+            "required": true
+        }
+}

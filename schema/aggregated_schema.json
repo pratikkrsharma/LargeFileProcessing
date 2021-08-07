@@ -1,0 +1,15 @@
+
+{
+    "name":
+        {
+            "type": "string",
+            "minlength": 1,
+            "required": true
+        },
+    "no_of_products":
+        {
+            "type": "int",
+            "minlength": 1,
+            "required": true
+        }
+}
